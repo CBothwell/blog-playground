@@ -1,0 +1,4 @@
+[16-Oct-2014 11:30:36 America/Chicago] PHP Warning:  require_once(Kline): failed to open stream: No such file or directory in /home/bothwell/public_html/blog/index.php on line 2
+[16-Oct-2014 11:30:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Kline' (include_path='.:/opt/php54/lib/php') in /home/bothwell/public_html/blog/index.php on line 2
+[16-Oct-2014 11:33:11 America/Chicago] PHP Warning:  require_once(Kline/Kline.php): failed to open stream: No such file or directory in /home/bothwell/public_html/blog/index.php on line 2
+[16-Oct-2014 11:33:11 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Kline/Kline.php' (include_path='.:/opt/php54/lib/php') in /home/bothwell/public_html/blog/index.php on line 2
